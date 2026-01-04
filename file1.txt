@@ -1,2 +1,15 @@
 Hello All ,I am learning Git Commands and I will write every git command what I learn in this file.
-d[D[3~[3~[3~
+d[D[3~[3~[3~pwd
+git init
+git status
+
+cat >> README.md
+git add README.md
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/CHITAKANIGOWTHAMKUMAR/git-practice.git
+git remote -v
+
+git push -u origin main
